@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "semismooth-newton-piecewise-linear: MATLAB code for the paper 'A semi-smooth Newton method for a special piecewise linear system with application to positively constrained convex quadratic programming'"
+type: software
+authors:
+  - family-names: "Barrios"
+    given-names: "J. G."
+  - family-names: "Bello Cruz"
+    given-names: "J. Y."
+  - family-names: "Ferreira"
+    given-names: "O. P."
+    orcid: "https://orcid.org/0000-0002-5758-0320"
+  - family-names: "Németh"
+    given-names: "S. Z."
+repository-code: "https://github.com/OrizonPereiraFerreira/semismooth-newton-piecewise-linear"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A semi-smooth Newton method for a special piecewise linear system with application to positively constrained convex quadratic programming"
+  authors:
+    - family-names: "Barrios"
+      given-names: "J. G."
+    - family-names: "Bello Cruz"
+      given-names: "J. Y."
+    - family-names: "Ferreira"
+      given-names: "O. P."
+      orcid: "https://orcid.org/0000-0002-5758-0320"
+    - family-names: "Németh"
+      given-names: "S. Z."
+  year: 2016
+  journal: "Journal of Computational and Applied Mathematics"
+  volume: "301"
+  start: "91"
+  end: "100"
+  doi: "10.1016/j.cam.2016.01.040"
